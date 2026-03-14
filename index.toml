@@ -31,6 +31,16 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "f482a9e36c6644c286bab5b0a45da12d535eb82851c2a4a1125bde7476379e5d"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "ddc97667d07015e2e0e1c6c20948f23f268a7bb29cdf459c0126e2dfabb568d1"
 metafile = true
@@ -98,4 +108,9 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "b2dd43f9809966eaed8ece9f72ec9ca4f35e8b1d5fd04cb7aa54d847ac9dab91"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
 metafile = true
