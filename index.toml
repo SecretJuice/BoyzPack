@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9cba3cb68a8d5b671364681dc6f66551fe5f1cb7daa16e74201557d7604b19ee"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "ddc97667d07015e2e0e1c6c20948f23f268a7bb29cdf459c0126e2dfabb568d1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "c315824dfe979035e9943c2d6c051cb865e5501c8e48ac96860289a8fb81a28d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "67c4f75152347bbf2879fb8e64daeab73f6d10c8a6ef9b684b90b7c4de0fd58b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "e9492e79e32be8021688d5c7a5ccf24379eece0df1570351aa8298623c5b9360"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "b2dd43f9809966eaed8ece9f72ec9ca4f35e8b1d5fd04cb7aa54d847ac9dab91"
+metafile = true
