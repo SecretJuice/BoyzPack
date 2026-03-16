@@ -1,12 +1,12 @@
 name = "Boyz Pack"
 author = "SecretJuice"
-version = "1.2.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "714f39a8eac553e00ac7e75f17201aa897399a7868f96f1c3143765999f70cec"
+hash = "debbc039a3f5ae0be0c7c96fbdc7557a2c840fac604f0e117c94e8b637b0e5d2"
 
 [versions]
 minecraft = "1.21.1"
