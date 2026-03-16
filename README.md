@@ -3,6 +3,6 @@
 Pack we made for kicks and giggles.
 
 ## TODO
-- Iris shaders
-- Gravestones
-- Maps
+- Inventory Tweaks
+- Refined Storage JEI
+- Look into Artifacts
