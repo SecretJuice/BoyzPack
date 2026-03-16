@@ -26,6 +26,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "7b9de2a18c345023ca5725f2ae3412f5f39bec6332ff862a018dd1b517af68cc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
@@ -101,6 +106,11 @@ hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
 metafile = true
 
 [[files]]
+file = "mods/simply-backpacks.pw.toml"
+hash = "ff21288bf0b70bb5c5acb82c64af30b86c68d3795e85cfc85eddf1a139721fa4"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
@@ -113,4 +123,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "01562e27f0c92ebf98eb6aaaace3c14fef18c734a6c65bda8101b8d3c640e12f"
 metafile = true
